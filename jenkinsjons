@@ -1,0 +1,3 @@
+this file is created a new code change in the repository, so that jenkins job cicd_bulidtrigger2 gets excuted 
+
+cicd_bulidtrigger2 is a jenkins job which is configured using (poll scm) buildtrigger.
